@@ -5,4 +5,4 @@ my openremote project
 2. I gave my pi static IP address; please refer to my NodeRed repository
 3. install docker-compose by 'sudo pip3 install docker-compose' by referring 'https://dev.to/elalemanyo/how-to-install-docker-and-docker-compose-on-raspberry-pi-1mo'
 4. upgrade python by referring to ' raspberrytips.com/install-latest-python-raspberry-pi/'
-5. 
+5. It is not ok. I will change to 64 bits OS. 
